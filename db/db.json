@@ -1,1 +1,18 @@
-[{"title":"Test Title","text":"Test text"}]
+{
+  "notes": [
+    {
+      "title": "Test Title",
+      "text": "Test text"
+    },
+    {
+      "title": "hey",
+      "text": "efwnc",
+      "id": "2e7273f8-d811-4093-9663-52046cf0e712"
+    },
+    {
+      "title": "hey yo",
+      "text": "wakanda forever\n",
+      "id": "8a573af4-724c-4c41-980c-5107af944781"
+    }
+  ]
+}
